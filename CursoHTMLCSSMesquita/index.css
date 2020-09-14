@@ -1,7 +1,43 @@
-h1{
+
+body{
+    color: rgb(225, 250, 247);
+}
+
+h1, h2, h3, figcaption, ul, ol, li{
     color: teal;
 }
 
+p{
+    color: teal;
+}
+
+dl{
+    color: orange;
+}
+
 table, th, td{
-    border: solid, 1px, teal;
+    border: 1px solid teal;
+}
+
+thead, Strong{   
+    color: palevioletred;
+    background-color: plum;
+}
+
+tbody{
+    color: rgb(253, 133, 173);
+}
+
+t-foot{
+    color: rgb(253, 133, 173);
+}
+
+th, td{
+    border: 1px solid;
+}
+
+img{
+    height: 300px;
+    width: 700px;
+
 }
